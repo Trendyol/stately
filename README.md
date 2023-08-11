@@ -2,7 +2,7 @@
 
 Stately is a library for managing different states of a content in Jetpack Compose.
 
-| <img src="art/main.gif" width="200"/> | <img src="art/loading.gif" width="200"/> | <img src="art/loadingwithcontentcircle.gif" width="200"/> | <img src="art/loadingwithcontentprogress.gif" width="200"/> | <img title="" src="art/infostate.png" alt="" width="200"> |
+| <img src="art/main.gif" width="170"/> | <img src="art/loading.gif" width="170"/> | <img src="art/loadingwithcontentcircle.gif" width="170"/> | <img src="art/loadingwithcontentprogress.gif" width="170"/> | <img title="" src="art/infostate.png" alt="" width="170"> |
 | ------------------------------------- | ---------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- |
 
 ## Usage
@@ -48,7 +48,7 @@ Stately(
 
 ## Including in your project
 
-1. Add the JitPack repository to your project-level `build.gradle` file:
+Add the JitPack repository to your project-level `build.gradle` file:
 
 ```
 allprojects {
@@ -59,7 +59,7 @@ allprojects {
 }
 ```
 
-1. Add the dependency to your app-level `build.gradle` file:
+Add the dependency to your app-level `build.gradle` file:
 
 ```
 dependencies {
@@ -67,7 +67,7 @@ dependencies {
 }
 ```
 
-1. Sync your project with Gradle files.
+Sync your project with Gradle files.
 
 ## License
 ```
