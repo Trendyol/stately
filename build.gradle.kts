@@ -18,7 +18,6 @@ subprojects {
                     "continuation_indent_size" to "2"
                 )
             )
-            //licenseHeaderFile(rootProject.file("spotless/spotless.license.kt"))
             trimTrailingWhitespace()
             endWithNewline()
         }
