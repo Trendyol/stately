@@ -1,3 +1,5 @@
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Trendyol/stately/badge)](https://scorecard.dev/viewer/?uri=github.com/Trendyol/stately)
 # Stately
 
 Stately is a library for managing different states of a content in Jetpack Compose.
